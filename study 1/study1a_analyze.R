@@ -35,7 +35,7 @@ antici <- generateCI2IFC(cleanData$TrialCode,
                          cleanData$ChoiceCode,
                          baseImg,
                          rData,
-                         targetpath = "./ci",
+                         targetpath = "./antici",
                          antiCI = TRUE)
 
 
